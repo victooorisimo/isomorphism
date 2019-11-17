@@ -1,9 +1,8 @@
 C:\Users\vict_\source\repos\Isomorphism\Isomorphism\bin\Debug\Isomorphism.exe.config
 C:\Users\vict_\source\repos\Isomorphism\Isomorphism\bin\Debug\Isomorphism.exe
 C:\Users\vict_\source\repos\Isomorphism\Isomorphism\bin\Debug\Isomorphism.pdb
-C:\Users\vict_\source\repos\Isomorphism\Isomorphism\obj\Debug\Isomorphism.csprojAssemblyReference.cache
+C:\Users\vict_\source\repos\Isomorphism\Isomorphism\obj\Debug\Isomorphism.HomeApplication.resources
 C:\Users\vict_\source\repos\Isomorphism\Isomorphism\obj\Debug\Isomorphism.Properties.Resources.resources
 C:\Users\vict_\source\repos\Isomorphism\Isomorphism\obj\Debug\Isomorphism.csproj.GenerateResource.cache
 C:\Users\vict_\source\repos\Isomorphism\Isomorphism\obj\Debug\Isomorphism.exe
 C:\Users\vict_\source\repos\Isomorphism\Isomorphism\obj\Debug\Isomorphism.pdb
-C:\Users\vict_\source\repos\Isomorphism\Isomorphism\obj\Debug\Isomorphism.HomeApplication.resources
